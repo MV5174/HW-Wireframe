@@ -13,9 +13,36 @@ body{
 
 header{
     background-color: #ebebeb;
+    padding: 2%;
 }
 
-h1{
+nav{
+    margin-top: 20px;
+    padding: 2%;
+}
+
+h1, h2, h3, p{
     text-align: center;
     margin: 0%;
+    background-color: #ebebeb;
+    color: #777;
+}
+
+#stuff{
+    background-color: #777;
+    color:#ebebeb;
+}
+
+#bio{
+    padding: 2%;
+}
+
+article{
+    background-color: #777;
+    color: #ebebeb;
+}
+
+section{
+    background-color: #ebebeb;
+    color: #777;
 }
