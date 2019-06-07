@@ -6,3 +6,16 @@ body{
     width: 960px;
     font-size: 18px;
 }
+
+.background{
+    background-color: #ebebeb;
+}
+
+header{
+    background-color: #ebebeb;
+}
+
+h1{
+    text-align: center;
+    margin: 0%;
+}
